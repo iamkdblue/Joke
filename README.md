@@ -19,7 +19,7 @@ href="https://eventsonair.withgoogle.com/events/kotlin">Here</a>.
 </table>
 
 ## Download Joke Android App
-<a href="https://github.com/iamkdblue/Joke/blob/master/art/download_app.png"><img width="190" height="80" src="art/download_app.png"/></a>
+<a href="https://github.com/iamkdblue/Joke/blob/master/app/release/app-release.apk"><img width="190" height="80" src="art/download_app.png"/></a>
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
